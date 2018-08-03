@@ -1,0 +1,1473 @@
+﻿Log file open, 08/03/18 10:19:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Teste
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283131
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.163s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz, GPU: NVIDIA GeForce GTX 980M
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.03-13.19.35:258][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.03-13.19.35:258][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.03-13.19.35:277][  0]LogHAL: Display: Platform has ~ 16 GB [17128054784 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.03-13.19.35:277][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.03-13.19.35:277][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.03-13.19.35:277][  0]LogInit: Computer: DESKTOP-3K4KLQD
+[2018.08.03-13.19.35:277][  0]LogInit: User: caverna
+[2018.08.03-13.19.35:277][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.03-13.19.35:277][  0]LogInit: High frequency timer resolution =2.435765 MHz
+[2018.08.03-13.19.35:278][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.08.03-13.19.35:278][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.03-13.19.35:278][  0]LogMemory: Process Physical Memory: 108.49 MB used, 108.49 MB peak
+[2018.08.03-13.19.35:278][  0]LogMemory: Process Virtual Memory: 97.91 MB used, 97.91 MB peak
+[2018.08.03-13.19.35:278][  0]LogMemory: Physical Memory: 5837.22 MB used,  10497.37 MB free, 16334.59 MB total
+[2018.08.03-13.19.35:278][  0]LogMemory: Virtual Memory: 579.82 MB used,  10497.37 MB free, 134217728.00 MB total
+[2018.08.03-13.19.35:299][  0]LogInit: Using OS detected language (pt-BR).
+[2018.08.03-13.19.35:299][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.08.03-13.19.35:713][  0]LogStreaming: Display: Took  0.414s to InitEngineTextLocalization.
+[2018.08.03-13.19.35:713][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.03-13.19.35:748][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.03-13.19.35:748][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.03-13.19.35:965][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.03-13.19.36:050][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2018.08.03-13.19.36:050][  0]LogD3D11RHI:       8033/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.03-13.19.36:051][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.03-13.19.36:051][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.03-13.19.36:051][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.03-13.19.36:055][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.03-13.19.36:055][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.03-13.19.36:055][  0]LogWindows: EnumDisplayDevices:
+[2018.08.03-13.19.36:055][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
+[2018.08.03-13.19.36:056][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.08.03-13.19.36:056][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.08.03-13.19.36:056][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.08.03-13.19.36:056][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.08.03-13.19.36:056][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2018.08.03-13.19.36:056][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.08.03-13.19.36:056][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.08.03-13.19.36:056][  0]LogRHI: Texture pool is 5623 MB (70% of 8033 MB)
+[2018.08.03-13.19.36:110][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.03-13.19.36:129][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.03-13.19.36:131][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Intermediate/Shaders/WorkingDirectory/4088/).
+[2018.08.03-13.19.36:131][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/caverna/AppData/Local/Temp/UnrealShaderWorkingDir/0DAE3AD7465A03C28A75E8B3BB166E46/'.
+[2018.08.03-13.19.36:462][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.03-13.19.36:477][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.03-13.19.36:492][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.03-13.19.36:506][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.03-13.19.36:521][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.03-13.19.36:536][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.03-13.19.36:552][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.03-13.19.36:569][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.03-13.19.36:576][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-13.19.36:678][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.03-13.19.36:745][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.03-13.19.36:745][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.03-13.19.36:776][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.03-13.19.36:776][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.03-13.19.36:792][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.03-13.19.36:808][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.03-13.19.36:822][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.03-13.19.36:837][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.03-13.19.36:848][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.03-13.19.36:848][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.03-13.19.36:905][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.03-13.19.36:905][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.03-13.19.36:905][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.03-13.19.37:804][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.03-13.19.37:863][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/caverna/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.03-13.19.37:863][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/caverna/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.03-13.19.37:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.03-13.19.37:863][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.03-13.19.37:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.03-13.19.37:863][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.03-13.19.37:882][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.03-13.19.37:894][  0]LogDerivedDataCache: Using Local data cache path C:/Users/caverna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.03-13.19.37:894][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.03-13.19.37:894][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.03-13.19.37:916][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.03-13.19.37:918][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.03-13.19.37:918][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.03-13.19.37:995][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.08.03-13.19.38:422][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.03-13.19.38:569][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.03-13.19.38:574][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.03-13.19.38:574][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.03-13.19.38:574][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.03-13.19.38:574][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.03-13.19.38:587][  0]LogNetVersion: Teste 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 873018939)
+[2018.08.03-13.19.39:163][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.132102 seconds
+[2018.08.03-13.19.39:170][  0]LogUObjectArray: 39110 objects as part of root set at end of initial load.
+[2018.08.03-13.19.39:170][  0]LogUObjectAllocator: 6807560 out of 0 bytes used by permanent object pool.
+[2018.08.03-13.19.39:170][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.03-13.19.40:044][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.03-13.19.40:057][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.03-13.19.40:210][  0]SourceControl: Controle de origem desativado
+[2018.08.03-13.19.40:210][  0]SourceControl: Controle de origem desativado
+[2018.08.03-13.19.40:211][  0]SourceControl: Controle de origem desativado
+[2018.08.03-13.19.40:212][  0]SourceControl: Controle de origem desativado
+[2018.08.03-13.19.40:380][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.03-13.19.40:443][  0]LogOcInput: OculusInput pre-init called
+[2018.08.03-13.19.40:506][  0]LogEngine: Initializing Engine...
+[2018.08.03-13.19.40:507][  0]LogHMD: Oculus plugin initialized. Version: 4.20.1-4233996+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.08.03-13.19.40:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.03-13.19.40:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.03-13.19.40:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.03-13.19.40:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.03-13.19.40:767][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.03-13.19.40:778][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.03-13.19.40:786][  0]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-13.19.40:796][  0]LogInit: FAudioDevice initialized.
+[2018.08.03-13.19.40:796][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.03-13.19.40:874][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/caverna/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.03-13.19.40:878][  0]LogInit: Texture streaming: Enabled
+[2018.08.03-13.19.40:894][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.03-13.19.40:905][  0]LogInit: Transaction tracking system initialized
+[2018.08.03-13.19.40:931][  0]BlueprintLog: New page: Carregar Editor
+[2018.08.03-13.19.41:009][  0]LocalizationService: Localization service is disabled
+[2018.08.03-13.19.41:270][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.03-13.19.41:270][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.03-13.19.41:270][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.03-13.19.41:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.03-13.19.41:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.03-13.19.41:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.03-13.19.41:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.03-13.19.41:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/caverna/Desktop/BIA/Projects/Teste/Content/' took 0.02s
+[2018.08.03-13.19.41:394][  0]SourceControl: Controle de origem desativado
+[2018.08.03-13.19.41:394][  0]Cmd: MAP LOAD FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.03-13.19.41:395][  0]LightingResults: New page: Compilação de Iluminação
+[2018.08.03-13.19.41:397][  0]MapCheck: New page: Verificação de Mapa
+[2018.08.03-13.19.41:397][  0]LightingResults: New page: Compilação de Iluminação
+[2018.08.03-13.19.42:045][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] InputAction Event references unknown Action 'ResetHMDOrientation' for  InputAction ResetHMDOrientation
+[2018.08.03-13.19.42:046][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.08.03-13.19.42:046][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] InputAction Event references unknown Action 'ComfortTurnRight' for  InputAction ComfortTurnRight
+[2018.08.03-13.19.42:046][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] InputAction Event references unknown Action 'ComfortTurnLeft' for  InputAction ComfortTurnLeft
+[2018.08.03-13.19.42:046][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.08.03-13.19.42:046][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.08.03-13.19.42:046][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.08.03-13.19.42:046][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.08.03-13.19.42:047][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.08.03-13.19.42:047][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.08.03-13.19.42:053][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] [0008,61] Compile of LeapBasicRiggedCharacter successful, but with 10 Warning(s) [in 16 ms] (/LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter)
+[2018.08.03-13.19.42:571][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-13.19.42:579][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.03-13.19.42:613][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.03-13.19.42:685][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71,293ms to complete.
+[2018.08.03-13.19.42:685][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.291
+[2018.08.03-13.19.42:740][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.03-13.19.42:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-13.19.42:783][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-13.19.42:793][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-13.19.42:802][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-13.19.42:811][  0]LogCollectionManager: Loaded 0 collections in 0.002232 seconds
+[2018.08.03-13.19.42:852][  0]LogFileCache: Scanning file cache for directory 'C:/Users/caverna/Desktop/BIA/Projects/Teste/Saved/Collections/' took 0.01s
+[2018.08.03-13.19.42:852][  0]LogFileCache: Scanning file cache for directory 'C:/Users/caverna/Desktop/BIA/Projects/Teste/Content/Developers/caverna/Collections/' took 0.01s
+[2018.08.03-13.19.42:852][  0]LogFileCache: Scanning file cache for directory 'C:/Users/caverna/Desktop/BIA/Projects/Teste/Content/Collections/' took 0.01s
+[2018.08.03-13.19.42:852][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.03-13.19.42:863][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2599 classes and 607 folders.
+[2018.08.03-13.19.42:871][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.03-13.19.42:908][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.03-13.19.42:912][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.03-13.19.43:003][  0]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.03-13.19.43:005][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.03-13.19.43:013][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.03-13.19.43:111][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.08.03-13.19.43:256][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-13.19.43:271][  0]LogSlate: Window 'Tutoriais' being destroyed
+[2018.08.03-13.19.43:302][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.03-13.19.43:302][  0]LogLoad: (Engine Initialization) Total time: 9.86 seconds
+[2018.08.03-13.19.43:302][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.03-13.19.43:321][  0]LogOcInput: OculusInput is initialized
+[2018.08.03-13.19.43:342][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.03-13.19.43:389][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.03-13.19.43:421][  1]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-13.19.43:439][  1]LogAssetRegistry: Asset discovery search completed in 5.4653 seconds
+[2018.08.03-13.19.43:441][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.03-13.19.43:441][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.08.03-13.19.47:188][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-13.19.47:396][218]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.03-13.19.47:402][218]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Teste/LeapRiggedCharacter.LeapRiggedCharacter
+[2018.08.03-13.19.47:928][218]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.08.03-13.19.48:871][218]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-13.19.48:879][218]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.03-13.20.51:316][651]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.03-13.21.21:849][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (digital_Handler)
+[2018.08.03-13.21.24:539][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-13.21.32:556][ 25]LogSlate: Window 'Selecionar Caminho' being destroyed
+[2018.08.03-13.21.32:645][ 25]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Teste/digital_Handler_Blueprint.digital_Handler_Blueprint
+[2018.08.03-13.21.33:138][ 26]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.08.03-13.21.59:708][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-13.24.23:092][570]LogEditorTransaction: Undo Adicionar Nó
+[2018.08.03-13.24.25:683][706]Cmd: TRANSACTION UNDO
+[2018.08.03-13.24.25:683][706]LogEditorTransaction: Undo Substituir Atores pelo esquema
+[2018.08.03-13.27.27:595][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/digital_Handler_Blueprint" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset" SILENT=true
+[2018.08.03-13.27.27:620][224]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/digital_Handler_BlueprintD5C04DB34103008EDA35B0BD7572EAF6.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset'
+[2018.08.03-13.27.35:514][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/LeapRiggedCharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset" SILENT=true
+[2018.08.03-13.27.35:551][690]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacterBCE92CDE4B030B2F1755C4AB6EBCCB54.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset'
+[2018.08.03-13.27.41:791][849]LogSlate: Window 'Selecionar Classe Pai' being destroyed
+[2018.08.03-13.28.25:078][685]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Teste/Teste_interface.Teste_interface
+[2018.08.03-13.28.54:866][654]LogMetaData: Removing '/Game/Teste/PickUpInterface.SKEL_PickUpInterface_C' ref from Metadata '/Game/Teste/Teste_interface.PackageMetaData'
+[2018.08.03-13.28.54:866][654]LogMetaData: Removing '/Game/Teste/PickUpInterface.PickUpInterface_C' ref from Metadata '/Game/Teste/Teste_interface.PackageMetaData'
+[2018.08.03-13.28.54:866][654]LogMetaData: Removing '/Game/Teste/PickUpInterface.PickUpInterface:NewFunction_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Teste/Teste_interface.PackageMetaData'
+[2018.08.03-13.28.54:881][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/PickUpInterface" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/PickUpInterface.uasset" SILENT=true
+[2018.08.03-13.28.54:891][654]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/PickUpInterface2A730A964CE813F52F3A599989DC7317.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/PickUpInterface.uasset'
+[2018.08.03-13.29.47:864][634]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.033
+[2018.08.03-13.29.47:865][634]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Teste/PickUpInterface] ([1] browsable assets)...
+[2018.08.03-13.29.47:865][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teste/PickUpInterface]
+[2018.08.03-13.29.47:878][634]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/PickUpInterface_Auto12B4653FE40698B14170B399337603929.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Autosaves/Game/Teste/PickUpInterface_Auto1.uasset'
+[2018.08.03-13.29.47:880][634]LogFileHelpers: Auto-saving content packages took 0.015
+[2018.08.03-13.30.07:173][259]LogSlate: Took 0.005337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.03-13.32.13:092][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/PickUpInterface" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/PickUpInterface.uasset" SILENT=true
+[2018.08.03-13.32.13:104][602]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/PickUpInterface7460262C46DA8C875AFFB69C6C69ED1F.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/PickUpInterface.uasset'
+[2018.08.03-13.32.54:669][ 79]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_2
+[2018.08.03-13.32.56:469][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-13.33.25:699][718]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.03-13.33.29:651][952]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_2
+[2018.08.03-13.33.29:655][952]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_4
+[2018.08.03-13.34.40:536][826]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-13.34.40:546][826]LogBlueprint: Error: [Compiler LeapRiggedCharacter] Missing Event 'NewFunction_0' for  <Nenhum>
+[2018.08.03-13.34.40:804][826]LogBlueprint: Warning: [Compiler LeapRiggedCharacter] [0907,36] Compile of LeapRiggedCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 268 ms] (/Game/Teste/LeapRiggedCharacter.LeapRiggedCharacter)
+[2018.08.03-13.34.52:482][500]BlueprintLog: New page: Compilar PickUpInterface
+[2018.08.03-13.34.52:500][500]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_6
+[2018.08.03-13.34.52:502][500]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_4
+[2018.08.03-13.34.52:644][500]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_8
+[2018.08.03-13.34.52:649][500]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_6
+[2018.08.03-13.34.52:653][500]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_8
+[2018.08.03-13.34.52:659][500]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_10
+[2018.08.03-13.34.52:664][500]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_10
+[2018.08.03-13.34.53:394][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/PickUpInterface" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/PickUpInterface.uasset" SILENT=true
+[2018.08.03-13.34.53:410][543]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/PickUpInterface57762E034934CE27FB584CADB92F3127.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/PickUpInterface.uasset'
+[2018.08.03-13.34.56:069][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/LeapRiggedCharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset" SILENT=true
+[2018.08.03-13.34.56:107][700]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacter493949B149B49EFF45E2E386AD4748BE.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset'
+[2018.08.03-13.34.57:294][771]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-13.34.57:312][771]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_12
+[2018.08.03-13.34.57:315][771]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_12
+[2018.08.03-13.34.57:573][771]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_14
+[2018.08.03-13.34.57:579][771]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_14
+[2018.08.03-13.34.57:582][771]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_16
+[2018.08.03-13.34.57:590][771]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_16
+[2018.08.03-13.34.57:596][771]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_18
+[2018.08.03-13.35.12:273][628]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_18
+[2018.08.03-13.35.12:280][628]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_20
+[2018.08.03-13.39.22:142][270]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.03-13.40.24:522][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.158
+[2018.08.03-13.40.24:523][331]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Teste/LeapRiggedCharacter] ([1] browsable assets)...
+[2018.08.03-13.40.24:538][331]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teste/LeapRiggedCharacter.LeapRiggedCharacter]
+[2018.08.03-13.40.24:538][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teste/LeapRiggedCharacter]
+[2018.08.03-13.40.24:578][331]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacter_Auto22D7BE7E7435841243C12A6B5D2647022.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Autosaves/Game/Teste/LeapRiggedCharacter_Auto2.uasset'
+[2018.08.03-13.40.24:580][331]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Teste/digital_Handler_Blueprint] ([1] browsable assets)...
+[2018.08.03-13.40.24:594][331]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teste/digital_Handler_Blueprint.digital_Handler_Blueprint]
+[2018.08.03-13.40.24:594][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teste/digital_Handler_Blueprint]
+[2018.08.03-13.40.24:624][331]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/digital_Handler_Blueprint_Auto2088F02854A16709CF6ADCB822720E512.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Autosaves/Game/Teste/digital_Handler_Blueprint_Auto2.uasset'
+[2018.08.03-13.40.24:625][331]LogFileHelpers: Auto-saving content packages took 0.103
+[2018.08.03-13.42.06:479][839]LogEditorTransaction: Undo Adicionar Nó
+[2018.08.03-13.43.24:597][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/digital_Handler_Blueprint" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset" SILENT=true
+[2018.08.03-13.43.24:624][566]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/digital_Handler_BlueprintFC43BA7640FAFCC812B54AB1D24DB79E.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset'
+[2018.08.03-13.43.36:573][273]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_20
+[2018.08.03-13.43.36:579][273]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_22
+[2018.08.03-13.43.53:317][272]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_22
+[2018.08.03-13.43.53:325][272]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_24
+[2018.08.03-13.50.50:372][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.099
+[2018.08.03-13.50.50:374][735]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Teste/LeapRiggedCharacter] ([1] browsable assets)...
+[2018.08.03-13.50.50:388][735]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teste/LeapRiggedCharacter.LeapRiggedCharacter]
+[2018.08.03-13.50.50:388][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teste/LeapRiggedCharacter]
+[2018.08.03-13.50.50:433][735]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacter_Auto3202083BA4606B0070B74A58744243355.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Autosaves/Game/Teste/LeapRiggedCharacter_Auto3.uasset'
+[2018.08.03-13.50.50:435][735]LogFileHelpers: Auto-saving content packages took 0.062
+[2018.08.03-13.55.15:509][111]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-13.55.15:531][111]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_24
+[2018.08.03-13.55.15:533][111]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_26
+[2018.08.03-13.55.15:719][111]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_26
+[2018.08.03-13.55.15:724][111]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_28
+[2018.08.03-13.55.15:728][111]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_30
+[2018.08.03-13.55.15:740][111]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_28
+[2018.08.03-13.55.15:745][111]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_32
+[2018.08.03-13.55.16:398][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/LeapRiggedCharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset" SILENT=true
+[2018.08.03-13.55.16:439][147]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacterF7243D164072984B71E89ABCCF37DA0B.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset'
+[2018.08.03-13.55.17:681][221]BlueprintLog: New page: Compilar digital_Handler_Blueprint
+[2018.08.03-13.55.18:341][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/digital_Handler_Blueprint" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset" SILENT=true
+[2018.08.03-13.55.18:373][244]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/digital_Handler_Blueprint8AEAAA7740060194D4D37ABE924D304D.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset'
+[2018.08.03-13.55.20:369][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/PickUpInterface" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/PickUpInterface.uasset" SILENT=true
+[2018.08.03-13.55.20:385][363]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/PickUpInterface53E2E6A2489D555F1E4B308F0FBB9B53.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/PickUpInterface.uasset'
+[2018.08.03-13.55.27:117][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-13.55.27:117][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-13.55.27:117][765]LogHMD: Initializing OVRPlugin session
+[2018.08.03-13.55.27:197][765]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 07:55:27)
+[2018.08.03-13.55.27:197][765]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-13.55.27:201][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003695s)
+[2018.08.03-13.55.27:202][765]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-13.55.27:202][765]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.08.03-13.55.27:202][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004611s)
+[2018.08.03-13.55.27:240][765]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-13.55.27:247][765]LogInit: FAudioDevice initialized.
+[2018.08.03-13.55.27:254][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-13.55.27:343][765]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-13.55.27:384][765]LogLoad: Game class is 'Teste_C'
+[2018.08.03-13.55.27:386][765]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-10.55.27
+[2018.08.03-13.55.27:386][765]LogWorld: Bringing up level for play took: 0.000991
+[2018.08.03-13.55.27:408][765]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.08.03-13.55.27:410][765]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-13.55.27:412][765]Cmd: stereo reset
+[2018.08.03-13.55.27:412][765]Command not recognized: stereo reset
+[2018.08.03-13.55.27:417][765]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,686
+[2018.08.03-13.55.27:418][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-13.55.27:419][765]LogEngine: Changing dynamic resolution state.
+[2018.08.03-13.55.27:438][765]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-13.55.27:438][765]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-13.55.27:438][765]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-13.55.27:438][765]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-13.55.27:438][765]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-13.55.27:438][765]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-13.55.27:449][765]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 10 NumSamples 1 (Frame:1).
+[2018.08.03-13.55.27:449][765]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-13.55.52:262][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-13.55.52:335][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-13.55.52:411][245]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-13.55.52:442][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-13.55.52:443][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-13.55.52:525][246]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.08.03-13.55.52:526][246]LogEngine: Changing dynamic resolution state.
+[2018.08.03-13.55.57:273][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-13.55.57:273][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-13.55.57:273][524]LogHMD: Initializing OVRPlugin session
+[2018.08.03-13.55.57:333][524]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 07:55:57)
+[2018.08.03-13.55.57:333][524]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-13.55.57:337][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004317s)
+[2018.08.03-13.55.57:338][524]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-13.55.57:338][524]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.08.03-13.55.57:338][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005299s)
+[2018.08.03-13.55.57:382][524]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-13.55.57:390][524]LogInit: FAudioDevice initialized.
+[2018.08.03-13.55.57:397][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-13.55.57:490][524]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-13.55.57:520][524]LogLoad: Game class is 'Teste_C'
+[2018.08.03-13.55.57:522][524]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-10.55.57
+[2018.08.03-13.55.57:522][524]LogWorld: Bringing up level for play took: 0.000953
+[2018.08.03-13.55.57:537][524]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-13.55.57:538][524]Cmd: stereo reset
+[2018.08.03-13.55.57:538][524]Command not recognized: stereo reset
+[2018.08.03-13.55.57:545][524]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,558
+[2018.08.03-13.55.57:546][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-13.55.57:547][524]LogEngine: Changing dynamic resolution state.
+[2018.08.03-13.55.57:556][524]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-13.55.57:556][524]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-13.56.20:285][549]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-13.56.20:354][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-13.56.20:393][549]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-13.56.20:421][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-13.56.20:421][549]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-13.56.20:495][550]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.08.03-13.56.20:496][550]LogEngine: Changing dynamic resolution state.
+[2018.08.03-13.57.03:062][465]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_30
+[2018.08.03-13.57.03:069][465]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_34
+[2018.08.03-13.57.17:677][321]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_32
+[2018.08.03-13.57.17:683][321]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_36
+[2018.08.03-13.57.30:032][ 44]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_34
+[2018.08.03-13.57.30:040][ 44]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_38
+[2018.08.03-14.00.58:890][877]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-14.00.58:917][877]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_36
+[2018.08.03-14.00.58:920][877]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_40
+[2018.08.03-14.00.59:218][877]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_38
+[2018.08.03-14.00.59:223][877]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_42
+[2018.08.03-14.00.59:227][877]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_44
+[2018.08.03-14.00.59:240][877]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_40
+[2018.08.03-14.00.59:246][877]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_46
+[2018.08.03-14.00.59:457][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/LeapRiggedCharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset" SILENT=true
+[2018.08.03-14.00.59:512][885]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacter5CE8FC104FADCF36EBEAD6B2B4E20499.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset'
+[2018.08.03-14.01.03:028][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.01.03:028][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-14.01.03:028][ 84]LogHMD: Initializing OVRPlugin session
+[2018.08.03-14.01.03:090][ 84]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 08:01:03)
+[2018.08.03-14.01.03:090][ 84]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-14.01.03:093][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003346s)
+[2018.08.03-14.01.03:094][ 84]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-14.01.03:094][ 84]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.08.03-14.01.03:094][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004324s)
+[2018.08.03-14.01.03:217][ 84]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-14.01.03:223][ 84]LogInit: FAudioDevice initialized.
+[2018.08.03-14.01.03:230][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-14.01.03:311][ 84]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-14.01.03:340][ 84]LogLoad: Game class is 'Teste_C'
+[2018.08.03-14.01.03:342][ 84]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-11.01.03
+[2018.08.03-14.01.03:342][ 84]LogWorld: Bringing up level for play took: 0.000925
+[2018.08.03-14.01.03:357][ 84]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-14.01.03:358][ 84]Cmd: stereo reset
+[2018.08.03-14.01.03:358][ 84]Command not recognized: stereo reset
+[2018.08.03-14.01.03:365][ 84]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,261
+[2018.08.03-14.01.03:365][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.01.03:366][ 84]LogEngine: Changing dynamic resolution state.
+[2018.08.03-14.01.03:376][ 84]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-14.01.03:376][ 84]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-14.01.19:893][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.01.19:963][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-14.01.20:002][962]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-14.01.20:029][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-14.01.20:030][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.01.20:102][963]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.08.03-14.01.20:103][963]LogEngine: Changing dynamic resolution state.
+[2018.08.03-14.01.43:375][259]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-14.01.43:400][259]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_42
+[2018.08.03-14.01.43:402][259]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_48
+[2018.08.03-14.01.43:586][259]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_44
+[2018.08.03-14.01.43:591][259]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_50
+[2018.08.03-14.01.43:594][259]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_52
+[2018.08.03-14.01.43:602][259]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_46
+[2018.08.03-14.01.43:607][259]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_54
+[2018.08.03-14.03.18:332][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.122
+[2018.08.03-14.03.18:333][301]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Teste/LeapRiggedCharacter] ([1] browsable assets)...
+[2018.08.03-14.03.18:416][301]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teste/LeapRiggedCharacter.LeapRiggedCharacter]
+[2018.08.03-14.03.18:416][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teste/LeapRiggedCharacter]
+[2018.08.03-14.03.18:459][301]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacter_Auto425F5D7C742EF02705297B99E37487EAE.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Autosaves/Game/Teste/LeapRiggedCharacter_Auto4.uasset'
+[2018.08.03-14.03.18:461][301]LogFileHelpers: Auto-saving content packages took 0.129
+[2018.08.03-14.04.16:145][773]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-14.04.16:169][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_48
+[2018.08.03-14.04.16:171][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_56
+[2018.08.03-14.04.16:362][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_50
+[2018.08.03-14.04.16:367][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_58
+[2018.08.03-14.04.16:371][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_60
+[2018.08.03-14.04.16:380][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_52
+[2018.08.03-14.04.16:386][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_62
+[2018.08.03-14.04.17:415][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/LeapRiggedCharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset" SILENT=true
+[2018.08.03-14.04.17:463][821]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacterEF40CDF6487F102C62F2E1BF545D6726.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset'
+[2018.08.03-14.04.21:414][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.04.21:414][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-14.04.21:414][ 50]LogHMD: Initializing OVRPlugin session
+[2018.08.03-14.04.21:472][ 50]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 08:04:21)
+[2018.08.03-14.04.21:472][ 50]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-14.04.21:476][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003360s)
+[2018.08.03-14.04.21:476][ 50]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-14.04.21:476][ 50]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2018.08.03-14.04.21:476][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004268s)
+[2018.08.03-14.04.21:603][ 50]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-14.04.21:610][ 50]LogInit: FAudioDevice initialized.
+[2018.08.03-14.04.21:618][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-14.04.21:699][ 50]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-14.04.21:729][ 50]LogLoad: Game class is 'Teste_C'
+[2018.08.03-14.04.21:730][ 50]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-11.04.21
+[2018.08.03-14.04.21:730][ 50]LogWorld: Bringing up level for play took: 0.000939
+[2018.08.03-14.04.21:744][ 50]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-14.04.21:746][ 50]Cmd: stereo reset
+[2018.08.03-14.04.21:746][ 50]Command not recognized: stereo reset
+[2018.08.03-14.04.21:752][ 50]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,352
+[2018.08.03-14.04.21:752][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.04.21:753][ 50]LogEngine: Changing dynamic resolution state.
+[2018.08.03-14.04.21:761][ 50]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-14.04.21:761][ 50]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-14.04.33:752][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.04.33:824][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-14.04.33:887][774]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-14.04.33:917][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-14.04.33:917][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.04.34:000][775]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.08.03-14.04.34:000][775]LogEngine: Changing dynamic resolution state.
+[2018.08.03-14.04.37:812][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (digital_Handler)
+[2018.08.03-14.04.37:894][  0]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.08.03-14.04.39:731][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-14.05.07:240][738]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.03-14.05.28:169][967]BlueprintLog: New page: Compilar digital_Handler_Blueprint
+[2018.08.03-14.05.39:196][608]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.03-14.06.02:270][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/digital_Handler_Blueprint" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset" SILENT=true
+[2018.08.03-14.06.02:305][374]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/digital_Handler_Blueprint6F8198F84C34C40C5AB71D8C4086A6CD.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset'
+[2018.08.03-14.13.31:227][805]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.034
+[2018.08.03-14.15.30:158][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.03-14.23.31:630][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-14.23.31:677][811]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.034
+[2018.08.03-14.33.31:872][818]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.033
+[2018.08.03-14.41.44:752][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.41.44:752][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-14.41.44:752][386]LogHMD: Initializing OVRPlugin session
+[2018.08.03-14.41.44:806][386]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 08:41:44)
+[2018.08.03-14.41.44:806][386]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-14.41.44:811][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004503s)
+[2018.08.03-14.41.44:812][386]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-14.41.44:812][386]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2018.08.03-14.41.44:812][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005944s)
+[2018.08.03-14.41.44:853][386]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-14.41.44:860][386]LogInit: FAudioDevice initialized.
+[2018.08.03-14.41.44:867][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-14.41.44:948][386]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-14.41.44:977][386]LogLoad: Game class is 'Teste_C'
+[2018.08.03-14.41.44:979][386]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-11.41.44
+[2018.08.03-14.41.44:979][386]LogWorld: Bringing up level for play took: 0.001476
+[2018.08.03-14.41.44:994][386]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-14.41.44:995][386]Cmd: stereo reset
+[2018.08.03-14.41.44:995][386]Command not recognized: stereo reset
+[2018.08.03-14.41.45:002][386]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,898
+[2018.08.03-14.41.45:002][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.41.45:003][386]LogEngine: Changing dynamic resolution state.
+[2018.08.03-14.41.45:013][386]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-14.41.45:014][386]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-14.46.42:196][983]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.46.42:267][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-14.46.42:308][983]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-14.46.42:340][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-14.46.42:340][983]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-14.46.42:410][984]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.08.03-14.46.42:410][984]LogEngine: Changing dynamic resolution state.
+[2018.08.03-14.49.34:697][847]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2018.08.03-14.50.04:662][ 93]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2018.08.03-14.50.05:282][130]LogEditorTransaction: Undo Create Reroute Node
+[2018.08.03-14.50.05:825][161]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2018.08.03-14.53.07:138][849]BlueprintLog: New page: Compilar digital_Handler_Blueprint
+[2018.08.03-14.53.07:146][849]LogBlueprint: Error: [Compiler digital_Handler_Blueprint] COMPILER ERROR: failed building connection with 'Replace existing input connections' at  Pickup
+[2018.08.03-14.53.07:302][849]LogBlueprint: Warning: [Compiler digital_Handler_Blueprint] [5613,86] Compile of digital_Handler_Blueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 164 ms] (/Game/Teste/digital_Handler_Blueprint.digital_Handler_Blueprint)
+[2018.08.03-14.53.07:846][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/digital_Handler_Blueprint" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset" SILENT=true
+[2018.08.03-14.53.07:881][865]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/digital_Handler_Blueprint967B38FA430549B370498B8B501481FE.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset'
+[2018.08.03-14.53.17:654][438]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2018.08.03-14.53.18:040][461]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2018.08.03-14.54.29:059][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/digital_Handler_Blueprint" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset" SILENT=true
+[2018.08.03-14.54.29:086][ 59]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/digital_Handler_Blueprint91D1038640542698112AE7B255244CEB.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset'
+[2018.08.03-14.54.29:629][ 90]BlueprintLog: New page: Compilar digital_Handler_Blueprint
+[2018.08.03-14.55.10:747][552]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_54
+[2018.08.03-14.55.13:760][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-14.55.38:936][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-14.56.08:230][864]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /LeapMotion/Character/Basic/BasicBody.BasicBody
+[2018.08.03-14.56.08:241][864]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.03-14.56.08:457][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.03-14.56.08:465][864]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.08.03-14.56.08:505][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.03-14.56.08:854][864]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.08.03-14.56.13:784][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-14.56.23:884][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-14.56.24:026][715]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /LeapMotion/Character/Basic/BasicBody_Physics.BasicBody_Physics
+[2018.08.03-14.56.24:068][715]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.08.03-14.56.24:091][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.08.03-14.56.43:154][336]LogSlate: Window 'BasicBody_Physics' being destroyed
+[2018.08.03-14.56.43:181][336]LogSlate: Window 'BasicBody_Physics' being destroyed
+[2018.08.03-14.56.43:265][336]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.03-14.57.52:401][553]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Teste/LeapRiggedCharacter.LeapRiggedCharacter
+[2018.08.03-14.57.52:740][553]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-14.59.47:452][192]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-14.59.47:476][192]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_2
+[2018.08.03-14.59.47:478][192]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_64
+[2018.08.03-14.59.47:701][192]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_4
+[2018.08.03-14.59.47:706][192]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_66
+[2018.08.03-14.59.47:710][192]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_68
+[2018.08.03-14.59.47:718][192]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_6
+[2018.08.03-14.59.47:723][192]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_70
+[2018.08.03-15.00.43:518][ 92]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.117
+[2018.08.03-15.00.43:519][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Teste/LeapRiggedCharacter] ([1] browsable assets)...
+[2018.08.03-15.00.43:610][ 92]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teste/LeapRiggedCharacter.LeapRiggedCharacter]
+[2018.08.03-15.00.43:611][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teste/LeapRiggedCharacter]
+[2018.08.03-15.00.43:659][ 92]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacter_Auto577CDDF4E4C687E59824300907BD36A02.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Autosaves/Game/Teste/LeapRiggedCharacter_Auto5.uasset'
+[2018.08.03-15.00.43:661][ 92]LogFileHelpers: Auto-saving content packages took 0.143
+[2018.08.03-15.02.19:102][451]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-15.02.19:126][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_8
+[2018.08.03-15.02.19:128][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_72
+[2018.08.03-15.02.19:315][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_10
+[2018.08.03-15.02.19:320][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_74
+[2018.08.03-15.02.19:324][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_76
+[2018.08.03-15.02.19:335][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_12
+[2018.08.03-15.02.19:339][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_78
+[2018.08.03-15.02.20:167][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/LeapRiggedCharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset" SILENT=true
+[2018.08.03-15.02.20:207][489]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacter4A4ADCCD4CCEDFCE37044ABCFD557EAF.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset'
+[2018.08.03-15.02.27:062][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.02.27:062][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-15.02.27:062][886]LogHMD: Initializing OVRPlugin session
+[2018.08.03-15.02.27:120][886]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 09:02:27)
+[2018.08.03-15.02.27:120][886]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-15.02.27:123][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003249s)
+[2018.08.03-15.02.27:124][886]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-15.02.27:124][886]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.08.03-15.02.27:124][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004163s)
+[2018.08.03-15.02.27:243][886]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-15.02.27:249][886]LogInit: FAudioDevice initialized.
+[2018.08.03-15.02.27:255][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.02.27:339][886]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.02.27:368][886]LogLoad: Game class is 'Teste_C'
+[2018.08.03-15.02.27:369][886]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-12.02.27
+[2018.08.03-15.02.27:370][886]LogWorld: Bringing up level for play took: 0.000964
+[2018.08.03-15.02.27:383][886]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-15.02.27:385][886]Cmd: stereo reset
+[2018.08.03-15.02.27:385][886]Command not recognized: stereo reset
+[2018.08.03-15.02.27:391][886]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,287
+[2018.08.03-15.02.27:391][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.02.27:392][886]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.02.27:401][886]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-15.02.27:402][886]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-15.02.43:596][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.02.43:664][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.02.43:702][905]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-15.02.43:735][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-15.02.43:735][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.02.43:806][906]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.08.03-15.02.43:807][906]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.05.23:670][941]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.08.03-15.05.23:701][942]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.03-15.05.32:162][431]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2018.08.03-15.05.32:184][432]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.03-15.05.59:033][993]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-15.05.59:056][993]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_14
+[2018.08.03-15.05.59:058][993]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_80
+[2018.08.03-15.05.59:240][993]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_16
+[2018.08.03-15.05.59:244][993]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_82
+[2018.08.03-15.05.59:248][993]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_84
+[2018.08.03-15.05.59:259][993]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_18
+[2018.08.03-15.05.59:264][993]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_86
+[2018.08.03-15.05.59:748][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/LeapRiggedCharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset" SILENT=true
+[2018.08.03-15.05.59:796][  4]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacterD427455A4E97A16E00C845970FF45C28.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset'
+[2018.08.03-15.06.22:460][315]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_20
+[2018.08.03-15.06.22:462][315]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_88
+[2018.08.03-15.06.22:465][315]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_22
+[2018.08.03-15.06.22:471][315]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_90
+[2018.08.03-15.06.22:474][315]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_24
+[2018.08.03-15.06.22:479][315]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_92
+[2018.08.03-15.06.32:077][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/LeapRiggedCharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset" SILENT=true
+[2018.08.03-15.06.32:122][867]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapRiggedCharacterBEE0F1A54914753C5945EDA1C109D8F8.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/LeapRiggedCharacter.uasset'
+[2018.08.03-15.06.34:405][  0]BlueprintLog: New page: Compilar LeapRiggedCharacter
+[2018.08.03-15.06.34:472][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_26
+[2018.08.03-15.06.34:475][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_94
+[2018.08.03-15.06.34:899][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_28
+[2018.08.03-15.06.34:907][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_96
+[2018.08.03-15.06.34:910][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_98
+[2018.08.03-15.06.34:920][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_30
+[2018.08.03-15.06.34:928][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_100
+[2018.08.03-15.06.46:649][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.06.46:650][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-15.06.46:650][402]LogHMD: Initializing OVRPlugin session
+[2018.08.03-15.06.46:709][402]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 09:06:46)
+[2018.08.03-15.06.46:709][402]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-15.06.46:714][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004441s)
+[2018.08.03-15.06.46:714][402]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-15.06.46:715][402]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2018.08.03-15.06.46:715][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005802s)
+[2018.08.03-15.06.46:844][402]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-15.06.46:853][402]LogInit: FAudioDevice initialized.
+[2018.08.03-15.06.46:859][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.06.46:944][402]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.06.46:974][402]LogLoad: Game class is 'Teste_C'
+[2018.08.03-15.06.46:976][402]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-12.06.46
+[2018.08.03-15.06.46:976][402]LogWorld: Bringing up level for play took: 0.000901
+[2018.08.03-15.06.46:990][402]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-15.06.46:992][402]Cmd: stereo reset
+[2018.08.03-15.06.46:992][402]Command not recognized: stereo reset
+[2018.08.03-15.06.46:999][402]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,896
+[2018.08.03-15.06.47:000][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.06.47:001][402]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.06.47:014][402]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-15.06.47:014][402]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-15.07.08:769][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.07.08:836][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.07.08:872][438]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-15.07.08:901][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-15.07.08:901][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.07.08:974][439]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.08.03-15.07.08:974][439]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.07.18:645][900]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_32
+[2018.08.03-15.07.18:647][900]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_102
+[2018.08.03-15.07.18:650][900]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_34
+[2018.08.03-15.07.18:656][900]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_104
+[2018.08.03-15.07.18:659][900]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_36
+[2018.08.03-15.07.18:664][900]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_106
+[2018.08.03-15.09.10:781][773]LogBlueprint: Warning: [Compiler PostProcessChanger] Override pins have been removed from  Quebrar PostProcessSettings  in  PostProcessChanger , please verify the Blueprint works as expected! See tooltips for enabling pin visibility for more details. This warning will go away after you resave the asset!
+[2018.08.03-15.09.10:817][773]LogBlueprint: Warning: [Compiler PostProcessChanger] [6577,38] Compile of PostProcessChanger successful, but with 1 Warning(s) [in 159 ms] (/LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger)
+[2018.08.03-15.09.11:034][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_38
+[2018.08.03-15.09.11:036][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_108
+[2018.08.03-15.09.11:339][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_40
+[2018.08.03-15.09.11:344][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_110
+[2018.08.03-15.09.11:355][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_42
+[2018.08.03-15.09.11:361][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_112
+[2018.08.03-15.09.11:481][773]LogMetaData: Removing '/Game/Teste/Testecharacter.Testecharacter_C' ref from Metadata '/Game/Teste/LeapRiggedCharacter.PackageMetaData'
+[2018.08.03-15.09.11:481][773]LogMetaData: Removing '/Game/Teste/Testecharacter.Testecharacter:EventGraph.K2Node_Event_505' ref from Metadata '/Game/Teste/LeapRiggedCharacter.PackageMetaData'
+[2018.08.03-15.09.11:481][773]LogMetaData: Removing '/Game/Teste/Testecharacter.Testecharacter:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Teste/LeapRiggedCharacter.PackageMetaData'
+[2018.08.03-15.09.11:481][773]LogMetaData: Removing '/Game/Teste/Testecharacter.Testecharacter:EventGraph.K2Node_Event_506' ref from Metadata '/Game/Teste/LeapRiggedCharacter.PackageMetaData'
+[2018.08.03-15.09.11:481][773]LogMetaData: Removing '/Game/Teste/Testecharacter.Testecharacter:EventGraph.K2Node_Event_507' ref from Metadata '/Game/Teste/LeapRiggedCharacter.PackageMetaData'
+[2018.08.03-15.09.11:481][773]LogMetaData: Removing '/Game/Teste/Testecharacter.Testecharacter:UserConstructionScript.K2Node_FunctionEntry_640' ref from Metadata '/Game/Teste/LeapRiggedCharacter.PackageMetaData'
+[2018.08.03-15.09.11:481][773]LogMetaData: Removing '/Game/Teste/Testecharacter.SKEL_Testecharacter_C' ref from Metadata '/Game/Teste/LeapRiggedCharacter.PackageMetaData'
+[2018.08.03-15.09.11:512][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-15.09.11:547][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/Testecharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Testecharacter.uasset" SILENT=true
+[2018.08.03-15.09.11:586][773]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/TestecharacterAF69624F49EE0CFF1C6916939643ADCF.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Testecharacter.uasset'
+[2018.08.03-15.09.11:864][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/Teste" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Teste.uasset" SILENT=true
+[2018.08.03-15.09.11:885][773]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/TesteAFD23DBB4D13CF0EABAFBCB9165B8A38.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Teste.uasset'
+[2018.08.03-15.09.11:901][773]LeapPluginLog: InterfaceObject: LeapAnimBodyConnectorWithPassthrough_C_0
+[2018.08.03-15.09.11:927][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/LeapMotion/Blueprints/Rigging/LeapPassthroughCharacter" FILE="../../Plugins/Runtime/LeapMotion/Content/Blueprints/Rigging/LeapPassthroughCharacter.uasset" SILENT=true
+[2018.08.03-15.09.11:969][773]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/LeapPassthroughCharacter681BADBD4818F24E7F5D6CAE4702EA11.tmp' to '../../Plugins/Runtime/LeapMotion/Content/Blueprints/Rigging/LeapPassthroughCharacter.uasset'
+[2018.08.03-15.09.14:064][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/Testecharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Testecharacter.uasset" SILENT=true
+[2018.08.03-15.09.14:101][883]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Testecharacter4EAA12824F01ABA4E2CEA5B50A3E4417.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Testecharacter.uasset'
+[2018.08.03-15.09.19:796][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/Testecharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Testecharacter.uasset" SILENT=true
+[2018.08.03-15.09.19:826][211]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Testecharacter2B0288434999490947F8ECB4F86B71B6.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Testecharacter.uasset'
+[2018.08.03-15.09.23:003][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.09.23:003][391]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.03-15.09.23:008][391]LogPlayLevel: [PlayLevel] Compiling LeapPassthroughCharacter before play...
+[2018.08.03-15.09.23:022][391]LeapPluginLog: InterfaceObject: LeapAnimBodyConnectorWithPassthrough_C_2
+[2018.08.03-15.09.23:190][391]LogPlayLevel: PlayLevel: Blueprint regeneration took 187 ms (1 blueprints)
+[2018.08.03-15.09.23:190][391]LogHMD: Initializing OVRPlugin session
+[2018.08.03-15.09.23:240][391]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 09:09:23)
+[2018.08.03-15.09.23:240][391]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-15.09.23:244][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003317s)
+[2018.08.03-15.09.23:244][391]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-15.09.23:245][391]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.08.03-15.09.23:245][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004460s)
+[2018.08.03-15.09.23:281][391]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-15.09.23:289][391]LogInit: FAudioDevice initialized.
+[2018.08.03-15.09.23:295][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.09.23:376][391]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.09.23:405][391]LogLoad: Game class is 'Teste_C'
+[2018.08.03-15.09.23:406][391]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-12.09.23
+[2018.08.03-15.09.23:407][391]LogWorld: Bringing up level for play took: 0.000874
+[2018.08.03-15.09.23:421][391]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-15.09.23:422][391]Cmd: stereo reset
+[2018.08.03-15.09.23:422][391]Command not recognized: stereo reset
+[2018.08.03-15.09.23:426][391]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,323
+[2018.08.03-15.09.23:427][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.09.23:427][391]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.09.23:436][391]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-15.09.23:436][391]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-15.09.29:189][861]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.09.29:261][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.09.29:298][861]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-15.09.29:328][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-15.09.29:328][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.09.29:398][862]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.08.03-15.09.29:398][862]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.09.34:018][113]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Teste/Teste.Teste
+[2018.08.03-15.09.34:340][113]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.08.03-15.09.36:344][230]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.03-15.09.36:347][230]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.03-15.09.39:043][389]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.03-15.10.09:295][180]LogSlate: Window 'Teste*' being destroyed
+[2018.08.03-15.10.09:298][180]LogSlate: Window 'Teste*' being destroyed
+[2018.08.03-15.10.09:381][180]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.03-15.10.44:754][234]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Minimal_Default2483490E4B779FC4228E4F91C68B67E1.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.08.03-15.10.44:869][234]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Minimal_Default_BuiltData08528BE04CBCC78A635111897D3128E8.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.08.03-15.10.49:935][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/Teste" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Teste.uasset" SILENT=true
+[2018.08.03-15.10.49:949][532]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/TesteEE0B0CAD4A8CCEC3753A2D992C6E7AD3.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Teste.uasset'
+[2018.08.03-15.10.59:291][ 70]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Teste/digital_Handler_Blueprint.digital_Handler_Blueprint
+[2018.08.03-15.12.26:814][238]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.03-15.13.39:942][548]BlueprintLog: New page: Compilar digital_Handler_Blueprint
+[2018.08.03-15.13.40:635][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/digital_Handler_Blueprint" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset" SILENT=true
+[2018.08.03-15.13.40:670][563]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/digital_Handler_Blueprint5B025FF04A94661DA5EF87BD7E214E77.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset'
+[2018.08.03-15.13.45:311][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.13.45:311][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-15.13.45:311][836]LogHMD: Initializing OVRPlugin session
+[2018.08.03-15.13.45:368][836]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 09:13:45)
+[2018.08.03-15.13.45:368][836]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-15.13.45:372][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003589s)
+[2018.08.03-15.13.45:373][836]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-15.13.45:373][836]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2018.08.03-15.13.45:373][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004938s)
+[2018.08.03-15.13.45:412][836]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-15.13.45:419][836]LogInit: FAudioDevice initialized.
+[2018.08.03-15.13.45:425][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.13.45:502][836]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.13.45:531][836]LogLoad: Game class is 'Teste_C'
+[2018.08.03-15.13.45:532][836]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-12.13.45
+[2018.08.03-15.13.45:532][836]LogWorld: Bringing up level for play took: 0.000891
+[2018.08.03-15.13.45:547][836]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-15.13.45:549][836]Cmd: stereo reset
+[2018.08.03-15.13.45:549][836]Command not recognized: stereo reset
+[2018.08.03-15.13.45:556][836]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,548
+[2018.08.03-15.13.45:556][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.13.45:558][836]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.13.45:567][836]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-15.13.45:567][836]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-15.13.54:766][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.13.54:838][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.13.54:879][457]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-15.13.54:911][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-15.13.54:911][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.13.54:988][458]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.08.03-15.13.54:989][458]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.14.05:324][988]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2018.08.03-15.14.05:600][  4]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2018.08.03-15.14.08:755][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/digital_Handler_Blueprint" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset" SILENT=true
+[2018.08.03-15.14.08:783][182]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/digital_Handler_Blueprint2AA4DA69488F3C38087D3AA86CFABE11.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/digital_Handler_Blueprint.uasset'
+[2018.08.03-15.14.10:842][305]BlueprintLog: New page: Compilar digital_Handler_Blueprint
+[2018.08.03-15.14.13:511][445]MapCheck: New page: Verificação de Mapa
+[2018.08.03-15.14.13:525][445]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.03-15.14.13:525][445]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.03-15.14.13:690][445]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Brushed_Nickel, compiling. 
+[2018.08.03-15.14.13:698][445]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.08.03-15.14.13:705][445]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Copper, compiling. 
+[2018.08.03-15.14.13:712][445]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.03-15.14.13:712][445]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.03-15.14.13:712][445]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_StatueGlass, compiling. 
+[2018.08.03-15.14.13:719][445]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2018.08.03-15.14.13:726][445]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.03-15.14.13:726][445]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.03-15.14.13:726][445]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.08.03-15.14.13:735][445]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy digital_BaseColor_Mat, compiling. 
+[2018.08.03-15.14.14:616][445]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.03-15.14.14:616][445]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.03-15.14.14:616][445]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.03-15.14.14:616][445]TextureStreamingBuild: Display: Compiling optional shaders took 0.933 seconds.
+[2018.08.03-15.14.14:628][445]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2018.08.03-15.14.14:647][445]TextureStreamingBuild: Display: Build Texture Streaming took 0.017 seconds.
+[2018.08.03-15.14.14:677][445]LightingResults: New page: Compilação de Iluminação - 03/08/2018 09:14:14
+[2018.08.03-15.14.14:711][445]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.03-15.14.14:763][445]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.03-15.14.14:774][445]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.03-15.14.15:292][445]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.03-15.14.15:292][445]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4088
+[2018.08.03-15.14.17:459][445]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.08.03-15.14.17:459][445]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.03-15.14.17:459][445]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.03-15.14.17:459][445]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.03-15.14.17:459][445]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.03-15.14.17:459][445]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.03-15.14.17:638][445]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.08.03-15.14.17:638][445]MapCheck: New page: Minimal_Default - 03/08/2018 09:14:17
+[2018.08.03-15.14.17:725][445]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86,709ms to complete.
+[2018.08.03-15.14.17:748][445]LogEditorBuildUtils: Build time 0:04
+[2018.08.03-15.14.17:838][446]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer digital_BaseColor_Mat, compiling. 
+[2018.08.03-15.14.17:845][446]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.03-15.14.17:845][446]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer digital_BaseColor_Mat, compiling. 
+[2018.08.03-15.14.17:851][446]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.03-15.14.20:473][541]Job is a success!
+[2018.08.03-15.14.20:532][542]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.08.03-15.14.20:532][542]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.03-15.14.20:532][542]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.08.03-15.14.20:532][542]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.03-15.14.20:532][542]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.08.03-15.14.20:532][542]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.08.03-15.14.20:532][542]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.08.03-15.14.20:745][542]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2018.08.03-15.14.20:745][542]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.08.03-15.14.20:745][542]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.08.03-15.14.20:745][542]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.08.03-15.14.20:745][542]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.08.03-15.14.20:745][542]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.08.03-15.14.20:746][542]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.08.03-15.14.20:767][542]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2018.08.03-15.14.20:793][542]Lightmass on DESKTOP-3K4KLQD: 1.75 sec total, 175 ms importing, 30 ms setup, 417 ms photons, 1.10 sec processing, 0 ms extra exporting [9/9 mappings]. Threads: 7.57 sec total, 3.16 sec processing.
+[2018.08.03-15.14.20:840][542]LogStaticLightingSystem: Illumination: 6.13 sec (175 ms encoding lightmaps, 41 ms encoding shadowmaps)
+[2018.08.03-15.14.20:840][542]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.08.03-15.14.20:840][542]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.08.03-15.14.21:462][542]DumpUnbuiltLightIteractions
+[2018.08.03-15.14.21:462][542]Lights with unbuilt interactions: 0
+[2018.08.03-15.14.21:462][542]
+[2018.08.03-15.14.21:462][542]Primitives with unbuilt interactions: 0
+[2018.08.03-15.14.21:665][543]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.03-15.14.21:665][543]MapCheck: New page: Minimal_Default - 03/08/2018 09:14:21
+[2018.08.03-15.14.21:753][543]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88,671ms to complete.
+[2018.08.03-15.14.30:292][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.14.30:292][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-15.14.30:292][893]LogHMD: Initializing OVRPlugin session
+[2018.08.03-15.14.30:347][893]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 09:14:30)
+[2018.08.03-15.14.30:347][893]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-15.14.30:351][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004025s)
+[2018.08.03-15.14.30:352][893]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-15.14.30:352][893]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.08.03-15.14.30:352][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005081s)
+[2018.08.03-15.14.30:388][893]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-15.14.30:396][893]LogInit: FAudioDevice initialized.
+[2018.08.03-15.14.30:402][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.14.30:476][893]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.14.30:504][893]LogLoad: Game class is 'Teste_C'
+[2018.08.03-15.14.30:505][893]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-12.14.30
+[2018.08.03-15.14.30:506][893]LogWorld: Bringing up level for play took: 0.000941
+[2018.08.03-15.14.30:520][893]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-15.14.30:522][893]Cmd: stereo reset
+[2018.08.03-15.14.30:522][893]Command not recognized: stereo reset
+[2018.08.03-15.14.30:527][893]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,423
+[2018.08.03-15.14.30:527][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.14.30:528][893]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.14.30:537][893]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-15.14.30:538][893]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-15.14.53:832][256]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.14.53:903][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.14.53:956][256]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-15.14.53:987][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-15.14.53:987][256]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.14.54:058][257]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.08.03-15.14.54:058][257]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.18.47:538][ 87]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-15.18.57:560][117]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-15.19.05:248][140]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-15.21.19:258][540]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Minimal_Default_Auto69D8B045444DFBE7EA2B2DD894C27C5BD.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
+[2018.08.03-15.21.19:262][540]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.211
+[2018.08.03-15.21.19:262][540]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.211
+[2018.08.03-15.21.19:265][540]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Maps/Minimal_Default_BuiltData] ([1] browsable assets)...
+[2018.08.03-15.21.19:265][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Maps/Minimal_Default_BuiltData]
+[2018.08.03-15.21.19:286][540]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Minimal_Default_BuiltData_Auto6411DF601405617CF64809FBB267D026A.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto6.uasset'
+[2018.08.03-15.21.19:288][540]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.08.03-15.28.54:363][182]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Teste/Testecharacter.Testecharacter
+[2018.08.03-15.28.54:730][182]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-15.30.28:085][460]BlueprintLog: New page: Compilar Testecharacter
+[2018.08.03-15.30.28:132][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_2
+[2018.08.03-15.30.28:135][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_114
+[2018.08.03-15.30.28:137][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_2
+[2018.08.03-15.30.28:139][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnectorWithPassthrough_C_4
+[2018.08.03-15.30.28:371][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_4
+[2018.08.03-15.30.28:376][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_116
+[2018.08.03-15.30.28:379][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_4
+[2018.08.03-15.30.28:383][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_6
+[2018.08.03-15.30.28:394][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_6
+[2018.08.03-15.30.28:399][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_118
+[2018.08.03-15.30.28:402][460]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_8
+[2018.08.03-15.30.29:127][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teste/Testecharacter" FILE="../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Testecharacter.uasset" SILENT=true
+[2018.08.03-15.30.29:177][485]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Testecharacter99A81D224770294E458F0D8B47CC3DB2.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/Teste/Testecharacter.uasset'
+[2018.08.03-15.30.41:701][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.30.41:701][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-15.30.41:701][936]LogHMD: Initializing OVRPlugin session
+[2018.08.03-15.30.41:756][936]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 09:30:41)
+[2018.08.03-15.30.41:756][936]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-15.30.41:761][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004730s)
+[2018.08.03-15.30.41:762][936]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-15.30.41:762][936]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2018.08.03-15.30.41:762][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005918s)
+[2018.08.03-15.30.41:926][936]LogInit: XAudio2 using 'Fones de ouvido (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-15.30.41:936][936]LogInit: FAudioDevice initialized.
+[2018.08.03-15.30.41:944][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.30.42:030][936]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.30.42:061][936]LogLoad: Game class is 'Teste_C'
+[2018.08.03-15.30.42:062][936]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.08.03-12.30.42
+[2018.08.03-15.30.42:063][936]LogWorld: Bringing up level for play took: 0.000974
+[2018.08.03-15.30.42:077][936]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-15.30.42:079][936]Cmd: stereo reset
+[2018.08.03-15.30.42:079][936]Command not recognized: stereo reset
+[2018.08.03-15.30.42:086][936]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,017
+[2018.08.03-15.30.42:087][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.30.42:088][936]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.30.42:098][936]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-15.30.42:098][936]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-15.30.46:414][278]LogBlueprintUserMessages: [Testecharacter_C_0] Released
+[2018.08.03-15.30.54:939][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.30.55:008][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.30.55:048][787]LogSlate: Window 'Teste Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.08.03-15.30.55:080][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-15.30.55:081][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.30.55:157][788]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.08.03-15.30.55:157][788]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.31.01:922][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.31.01:922][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-15.31.01:922][186]LogHMD: Initializing OVRPlugin session
+[2018.08.03-15.31.01:983][186]PIE: New page: Sessão de PIE : Minimal_Default (03/08/2018 09:31:01)
+[2018.08.03-15.31.01:983][186]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.08.03-15.31.01:987][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003587s)
+[2018.08.03-15.31.01:987][186]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.03-15.31.01:987][186]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.08.03-15.31.01:987][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004598s)
+[2018.08.03-15.31.02:027][186]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-15.31.02:037][186]LogInit: FAudioDevice initialized.
+[2018.08.03-15.31.02:069][186]LogLoad: Game class is 'Teste_C'
+[2018.08.03-15.31.02:070][186]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.08.03-12.31.02
+[2018.08.03-15.31.02:070][186]LogWorld: Bringing up level for play took: 0.000871
+[2018.08.03-15.31.02:084][186]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.08.03-15.31.02:086][186]Cmd: stereo reset
+[2018.08.03-15.31.02:086][186]Command not recognized: stereo reset
+[2018.08.03-15.31.02:086][186]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,017
+[2018.08.03-15.31.02:087][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.31.10:908][619]LogSlate: Window 'Entering VR Mode - Experimental' being destroyed
+[2018.08.03-15.31.12:713][619]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.31.12:741][619]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.31.12:770][619]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.08.03-15.31.12:770][619]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.08.03-15.31.12:770][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-15.31.12:803][619]LogSlate: Window 'Sequenciador' being destroyed
+[2018.08.03-15.31.12:925][619]LogEngine: Changing dynamic resolution state.
+[2018.08.03-15.31.12:955][620]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.31.19:310][873]LogBlueprintUserMessages: [Testecharacter_C_0] Released
+[2018.08.03-15.31.24:506][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.31.24:506][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.31.24:536][ 24]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.31.24:590][ 24]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.08.03-15.31.24:614][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-15.31.24:615][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.08.03-15.31.24:648][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-15.31.24:709][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.08.03-15.31.29:421][255]Cmd: SELECT NONE
+[2018.08.03-15.31.29:883][278]Cmd: SELECT NONE
+[2018.08.03-15.31.30:204][294]Cmd: SELECT NONE
+[2018.08.03-15.31.30:345][301]Cmd: SELECT NONE
+[2018.08.03-15.31.30:525][310]Cmd: SELECT NONE
+[2018.08.03-15.31.30:732][320]Cmd: SELECT NONE
+[2018.08.03-15.31.33:446][457]LogEditorViewport: Clicking Background
+[2018.08.03-15.31.33:899][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-15.31.40:904][787]LogEditorViewport: Clicking Background
+[2018.08.03-15.31.41:401][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-15.31.48:399][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-15.31.51:676][938]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2018.08.03-15.31.51:686][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-15.31.52:020][938]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Minimal_Default92FBD9C74143DB78E3614AA1D4C50E92.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.08.03-15.31.52:057][938]LogFileHelpers: Saving map 'Minimal_Default' took 0.365
+[2018.08.03-15.31.52:121][938]LogSavePackage: Moving '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Saved/Minimal_Default_BuiltData20A3ABCF4D7C4862A612ABAE419881B6.tmp' to '../../../../../../Users/caverna/Desktop/BIA/Projects/Teste/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.08.03-15.31.52:297][938]LogSlate: Window 'Testecharacter' being destroyed
+[2018.08.03-15.31.52:306][938]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.03-15.31.52:369][938]LogSlate: Window 'Teste - Unreal Editor' being destroyed
+[2018.08.03-15.31.52:369][938]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.03-15.31.52:622][939]Cmd: QUIT_EDITOR
+[2018.08.03-15.31.52:944][939]LogExit: Preparing to exit.
+[2018.08.03-15.31.54:035][939]LogExit: Editor shut down
+[2018.08.03-15.31.54:036][939]LogExit: Transaction tracking system shut down
+[2018.08.03-15.31.54:576][939]LogExit: Object subsystem successfully closed.
+[2018.08.03-15.31.54:597][939]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.03-15.31.54:602][939]LogD3D11RHI: Shutdown
+[2018.08.03-15.31.54:602][939]LogD3D11RHI: CleanupD3DDevice
+[2018.08.03-15.31.54:607][939]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (628)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (626)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (624)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module PinnedCommandList (622)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module SkeletonEditor (620)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.08.03-15.31.54:625][939]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.08.03-15.31.54:628][939]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.08.03-15.31.54:628][939]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.08.03-15.31.54:628][939]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.08.03-15.31.54:628][939]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.08.03-15.31.54:628][939]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.08.03-15.31.54:628][939]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.08.03-15.31.54:628][939]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.08.03-15.31.54:629][939]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.08.03-15.31.54:630][939]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.08.03-15.31.54:631][939]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.08.03-15.31.54:631][939]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.08.03-15.31.54:631][939]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.08.03-15.31.54:631][939]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.08.03-15.31.54:631][939]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.08.03-15.31.54:631][939]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.08.03-15.31.54:631][939]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.08.03-15.31.54:631][939]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.08.03-15.31.54:631][939]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.08.03-15.31.55:099][939]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.08.03-15.31.55:099][939]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.08.03-15.31.55:099][939]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.08.03-15.31.55:099][939]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.08.03-15.31.55:099][939]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.08.03-15.31.55:099][939]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.08.03-15.31.55:099][939]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.08.03-15.31.55:099][939]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.08.03-15.31.55:099][939]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.08.03-15.31.55:100][939]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.08.03-15.31.55:152][939]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.08.03-15.31.55:152][939]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.08.03-15.31.55:152][939]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.08.03-15.31.55:152][939]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.08.03-15.31.55:152][939]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.08.03-15.31.55:152][939]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.08.03-15.31.55:153][939]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.08.03-15.31.55:153][939]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.08.03-15.31.55:153][939]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.08.03-15.31.55:153][939]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.08.03-15.31.55:162][939]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.08.03-15.31.55:162][939]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.08.03-15.31.55:164][939]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.08.03-15.31.55:164][939]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.08.03-15.31.55:164][939]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.08.03-15.31.55:164][939]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.08.03-15.31.55:164][939]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.08.03-15.31.55:164][939]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.08.03-15.31.55:165][939]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.08.03-15.31.55:370][939]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.08.03-15.31.55:370][939]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.08.03-15.31.55:370][939]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.08.03-15.31.55:370][939]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.08.03-15.31.55:370][939]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.08.03-15.31.55:371][939]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.08.03-15.31.55:375][939]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.08.03-15.31.55:375][939]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.08.03-15.31.55:375][939]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.08.03-15.31.55:375][939]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.08.03-15.31.55:376][939]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module OculusEditor (294)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (290)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (288)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2018.08.03-15.31.55:377][939]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2018.08.03-15.31.55:478][939]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2018.08.03-15.31.55:578][939]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (280)
+[2018.08.03-15.31.55:578][939]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2018.08.03-15.31.55:578][939]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2018.08.03-15.31.55:578][939]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2018.08.03-15.31.55:578][939]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2018.08.03-15.31.55:578][939]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2018.08.03-15.31.55:578][939]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.08.03-15.31.55:579][939]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.08.03-15.31.55:579][939]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2018.08.03-15.31.55:580][939]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2018.08.03-15.31.55:580][939]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2018.08.03-15.31.55:580][939]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2018.08.03-15.31.55:582][939]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2018.08.03-15.31.55:582][939]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2018.08.03-15.31.55:582][939]LogModuleManager: Shutting down and abandoning module AISupportModule (252)
+[2018.08.03-15.31.55:582][939]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2018.08.03-15.31.55:582][939]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2018.08.03-15.31.55:582][939]LogModuleManager: Shutting down and abandoning module WmfMedia (246)
+[2018.08.03-15.31.55:582][939]LogModuleManager: Shutting down and abandoning module Media (245)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2018.08.03-15.31.55:588][939]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2018.08.03-15.31.55:589][939]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2018.08.03-15.31.55:589][939]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2018.08.03-15.31.55:589][939]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2018.08.03-15.31.55:589][939]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2018.08.03-15.31.55:589][939]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2018.08.03-15.31.55:589][939]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2018.08.03-15.31.55:589][939]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2018.08.03-15.31.55:589][939]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2018.08.03-15.31.55:591][939]LogModuleManager: Shutting down and abandoning module MRMesh (200)
+[2018.08.03-15.31.55:591][939]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (198)
+[2018.08.03-15.31.55:591][939]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (196)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module XAudio2 (194)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module Networking (192)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module Core (190)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module LevelSequence (188)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (181)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (177)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2018.08.03-15.31.55:592][939]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (167)
+[2018.08.03-15.31.55:593][939]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2018.08.03-15.31.55:672][939]LogDerivedDataCache: Shutdown
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2018.08.03-15.31.55:672][939]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2018.08.03-15.31.55:673][939]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2018.08.03-15.31.55:684][939]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2018.08.03-15.31.55:685][939]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2018.08.03-15.31.55:692][939]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2018.08.03-15.31.55:693][939]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module LeapMotion (80)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.08.03-15.31.55:731][939]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.08.03-15.31.55:732][939]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.08.03-15.31.55:732][939]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.08.03-15.31.55:760][939]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.08.03-15.31.55:760][939]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.03-15.31.55:760][939]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC212463F-4E79-363D-131C-B6B1FC14F796%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=ecfe54264cce0195b79658aef85dfe9a%7C44d38874e8a84e29b538cad9fa4e21a6%7C35edfbd6-215b-4f7b-a850-e007491a99bb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.03-15.31.55:787][939]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.08.03-15.31.55:789][939]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.03-15.31.55:789][939]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.03-15.31.55:790][939]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.03-15.31.55:790][939]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.03-15.31.55:790][939]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.03-15.31.55:790][939]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.03-15.31.55:790][939]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.03-15.31.55:791][939]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.03-15.31.55:792][939]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.03-15.31.55:797][939]LogExit: Exiting.
+[2018.08.03-15.31.55:819][939]Log file closed, 08/03/18 12:31:55
